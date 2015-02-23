@@ -1,4 +1,4 @@
-whole_numeber = 7853
+whole_number = 7853
 thousands = whole_number / 1000
 hundreds = whole_number % 1000 / 100
 tens = whole_number % 1000 % 100 / 10
